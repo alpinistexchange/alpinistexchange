@@ -1,16 +1,17 @@
-### Hi there 👋
+# ALPINIST EXCHANGE ⛏
 
-<!--
-**alpinistexchange/alpinistexchange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## The coldest DEX on Avalanche Network 🔺
 
-Here are some ideas to get you started:
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Swap, farms, pool, NFT marketplace. All on one platform.
+
+ 
+
+The natif token of Alpinist is $ALPES.
+
+Created very close to Mont-Blanc, this token is used to avalanches, it will climb to the top of the mountain.
+
+ 
+
+_Enjoy, we find ourselves under the storm with a bag full of $ ALPES._
